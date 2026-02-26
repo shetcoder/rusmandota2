@@ -16,4 +16,5 @@ Disallow:
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: https://rusmandota.pages.dev/sitemap.xml
+Sitemap: https://rusmandota2.jesseaguaria.workers.dev/sitemap.xml
+
